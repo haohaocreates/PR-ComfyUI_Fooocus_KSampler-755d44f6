@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_fooocus_ksampler"
+description = "Nodes: KSampler With Refiner (Fooocus). The KSampler from [a/Fooocus](https://github.com/lllyasviel/Fooocus) as a ComfyUI node [w/NOTE: This patches basic ComfyUI behaviour - don't use together with other samplers. Or perhaps do? Other samplers might profit from those changes ... ymmv.]"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/hustille/ComfyUI_Fooocus_KSampler"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_Fooocus_KSampler"
+Icon = ""
